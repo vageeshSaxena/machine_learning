@@ -1,6 +1,6 @@
 WEATHER FORECAST :
 
-1) Predicting the max temperature for tomorrow in the city of SEATTLE,WA using one year of past weather data.
+1) Predicting the max temperature for the city of SEATTLE,WA using one year of past weather data.
 2) ML Classifier used : Random forest regression (scikit-learn)
 3) Dataset : https://drive.google.com/file/d/1pko9oRmCllAxipZoa3aoztGZfPAD2iwj/view?usp=sharing
 
